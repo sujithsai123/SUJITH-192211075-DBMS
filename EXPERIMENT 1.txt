@@ -1,0 +1,83 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING 
+
+ 
+
+1. 
+
+DDL Commands – CREATE, ALTER, DROP, TRUNCATE 
+
+Create a Table as Workers with the fields S_No, Name, Designation, and Branch. Alter the Table by 
+adding a column Branch. Drop the table. 
+
+ 
+
+
+
+Date: 
+
+ 
+
+DDL Commands – CREATE, ALTER, DROP 
+
+ 
+
+Aim: 
+
+ 
+
+To Create, Alter and Drop the table using Data Definition Language. 
+
+ 
+
+Description: 
+
+ 
+
+Data Definition Language (DDL) statements are used to define the database structure or schema. 
+
+ 
+
+DDL Commands: Create, Alter, Drop, Rename, Truncate 
+
+ ∙ CREATE - to create objects in the database 
+
+ 
+ALTER - alters the structure of the database 
+ 
+TRUNCATE - remove all records from a table, including all spaces allocated for the records are 
+removed 
+ 
+RENAME - rename an object 
+
+
+
+ 
+∙ DROP - delete objects from the database 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+OUTPUT: 
+
+
+ 
+
+ 
+
+ 
+
+
